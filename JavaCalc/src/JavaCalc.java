@@ -6,6 +6,7 @@ public class JavaCalc {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 // change 5 local.
+		// TODO make some code
 	}
 
 }
